@@ -1,0 +1,6 @@
+# Transfer-Learning 
+- ALEXNET
+- VGG
+- INCEPTION
+- EFFICIENTNET
+- RESNET
